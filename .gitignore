@@ -1,0 +1,7 @@
+node_modules
+dist
+
+server.log
+/src/db/connectionStr.txt
+*.http
+package-lock.json
